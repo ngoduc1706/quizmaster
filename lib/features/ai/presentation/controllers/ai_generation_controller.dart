@@ -57,7 +57,7 @@ class AIGeneration extends _$AIGeneration {
     final repository = GeminiRepository(
       dataSource: GeminiApiDataSource(
         dio: Dio(),
-        apiKey: 'AIzaSyAfp1y0nr0HMzohUrs85T8MVBK-20YiA4A', // TODO: Get from environment
+        apiKey: 'key api ', // TODO: Get from environment
       ),
     );
 

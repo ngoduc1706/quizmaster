@@ -65,71 +65,71 @@ flutter run
 
 
 ### Trang Welcome
-![Welcome Page](screenshots/welcome.png)
+<img src="screenshots/welcome.png" width="300" alt="Welcome Page">
 *Màn hình chào mừng với animation và gradient*
 
 ### Trang Đăng Nhập
-![Login Page](screenshots/login.png)
+<img src="screenshots/login.png" width="300" alt="Login Page">
 *Form đăng nhập với thiết kế hiện đại*
 
 ### Trang Đăng Ký
-![Signup Page](screenshots/signup.png)
+<img src="screenshots/signup.png" width="300" alt="Signup Page">
 *Form đăng ký với validation*
 
 ### Trang Chủ
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" width="300" alt="Home Page">
 *Trang chủ với quiz gần đây, danh mục và tính năng nổi bật*
 
 ### Trang Khám Phá
-![Discover Page](screenshots/discover.png)
+<img src="screenshots/discover.png" width="300" alt="Discover Page">
 *Tìm kiếm và lọc quiz với bộ lọc nâng cao*
 
 ### Tạo Quiz - Bước 1: Thông Tin Cơ Bản
-![Create Quiz Step 1](screenshots/create_quiz_step1.png)
+<img src="screenshots/create_quiz_step1.png" width="300" alt="Create Quiz Step 1">
 *Form nhập thông tin cơ bản của quiz*
 
 ### Tạo Quiz - Bước 2: Câu Hỏi
-![Create Quiz Step 2](screenshots/create_quiz_step2.png)
+<img src="screenshots/create_quiz_step2.png" width="300" alt="Create Quiz Step 2">
 *Thêm câu hỏi với giao diện hiện đại*
 
 ### Form Thêm Câu Hỏi
-![Add Question Dialog](screenshots/add_question.png)
+<img src="screenshots/add_question.png" width="300" alt="Add Question Dialog">
 *Dialog thêm câu hỏi với các tùy chọn*
 
 ### Tạo Quiz - Bước 3: Cài Đặt
-![Create Quiz Step 3](screenshots/create_quiz_step3.png)
+<img src="screenshots/create_quiz_step3.png" width="300" alt="Create Quiz Step 3">
 *Cấu hình cài đặt quiz (công khai, xem lại đáp án, v.v.)*
 
 ### Tạo Quiz Bằng AI
-![AI Generation](screenshots/ai_generation.png)
+<img src="screenshots/ai_generation.png" width="300" alt="AI Generation">
 *Tạo quiz tự động bằng AI với tùy chỉnh*
 
 ### Làm Quiz
-![Quiz Play](screenshots/quiz_play.png)
+<img src="screenshots/quiz_play.png" width="300" alt="Quiz Play">
 *Giao diện làm quiz với timer*
 
 ### Kết Quả Quiz
-![Quiz Result](screenshots/quiz_result.png)
+<img src="screenshots/quiz_result.png" width="300" alt="Quiz Result">
 *Xem kết quả với emoji động và màu sắc*
 
 ### Xem Lại Đáp Án
-![Answer Review](screenshots/answer_review.png)
+<img src="screenshots/answer_review.png" width="300" alt="Answer Review">
 *Chi tiết từng câu hỏi và đáp án*
 
 ### Trang Profile
-![Profile Page](screenshots/profile.png)
+<img src="screenshots/profile.png" width="300" alt="Profile Page">
 *Hồ sơ người dùng với thống kê*
 
 ### Trang Cài Đặt
-![Settings Page](screenshots/settings.png)
+<img src="screenshots/settings.png" width="300" alt="Settings Page">
 *Cài đặt với dark mode và ngôn ngữ*
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+<img src="screenshots/admin_dashboard.png" width="300" alt="Admin Dashboard">
 *Dashboard quản lý với các tab*
 
 ### Quản Lý Quiz
-![Quiz Management](screenshots/quiz_management.png)
+<img src="screenshots/quiz_management.png" width="300" alt="Quiz Management">
 *Quản lý tất cả quiz trong hệ thống*
 
 

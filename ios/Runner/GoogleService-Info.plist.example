@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- 
+	Đây là file mẫu. Bạn cần tải file GoogleService-Info.plist thực từ Firebase Console.
+	
+	Hướng dẫn:
+	1. Vào Firebase Console > Project Settings
+	2. Chọn iOS app của bạn
+	3. Tải file GoogleService-Info.plist
+	4. Đặt file vào thư mục: ios/Runner/GoogleService-Info.plist
+	5. Thêm file vào Xcode project (kéo thả vào Runner folder)
+	6. Xóa file .example này
+	-->
+</dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+

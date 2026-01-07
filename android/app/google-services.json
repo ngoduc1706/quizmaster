@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074762131538",
+    "project_id": "laptrinh-d7f41",
+    "storage_bucket": "laptrinh-d7f41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074762131538:android:cd5bf5a12223c5ab6a978b",
+        "android_client_info": {
+          "package_name": "com.example.doanlaptrinh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo14_zwJZ1wLH14I5vBN-shAI_QTAvFJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

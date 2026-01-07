@@ -27,7 +27,7 @@
 
 ### Bước 1: Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ngoduc1706/quizmaster.git
 cd doanlaptrinh
 ```
 

@@ -50,9 +50,9 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 ### Bước 5: Cấu Hình Gemini API
 
-Thêm API key vào file `lib/features/ai/data/datasources/gemini_api_datasource.dart`:
+Thêm API key vào file `lib/features/ai/presentation/controllers/ai_generation_controller.dart` tại dòng 60:
 ```dart
-static const String _apiKey = 'YOUR_GEMINI_API_KEY';
+apiKey: 'YOUR_GEMINI_API_KEY',
 ```
 
 ### Bước 6: Chạy Ứng Dụng
